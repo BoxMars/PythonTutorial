@@ -1,4 +1,4 @@
-a = 10.0 #浮点数
+a = "10" #字符串
 print ("type  of a is {}".format(type(a)))
 print ("value of a is {}\n".format(a))
 
